@@ -1,2 +1,3 @@
+# gitで管理しないファイル、フォルダを記載
 /.env
 /node_modules

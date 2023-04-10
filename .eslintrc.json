@@ -1,7 +1,7 @@
 {
 	"extends": [
 		"eslint:recommended",
-		"prettier" // 上書きされるため、最後に持ってくる
+		"prettier" // 上書きされるため、最後に書く
 	],
 	"plugins": ["node"],
 	"parserOptions": {

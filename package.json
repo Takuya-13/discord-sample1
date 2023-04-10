@@ -1,17 +1,17 @@
 {
   "dependencies": {
     "@discordjs/builders": "^1.6.1",
-    "discord.js": "^14.9.0",
-    "eslint": "^8.38.0",
-    "eslint-plugin-node": "^11.1.0",
-    "prettier": "^2.8.7",
-    "yarn": "^1.22.19"
+    "discord.js": "^14.9.0"
   },
   "name": "discord",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "eslint": "^8.38.0",
+    "eslint-plugin-node": "^11.1.0",
+    "prettier": "^2.8.7",
+    "yarn": "^1.22.19"
   }
 }
