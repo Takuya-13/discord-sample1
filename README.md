@@ -1,0 +1,21 @@
+### discord-sample1
+
+#### 開発環境
+
+_Node.js のインストール_
+[ここ](https://nodejs.org/ja)から。（どっちでもいいけど LST 版の方が無難）
+インストール出来てるかの確認。cmd 開いて'node -v'コマンドを実行し、バージョン情報が出てくれば成功。
+
+_VSCode のインストール（他に好きなやつがあればエディターは何でも）_
+[ここから](https://code.visualstudio.com/)から。
+10
+もし VSCode を使うなら、インストール後、↓ の拡張機能を入れとくと便利。
+・[Japanese Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja)
+・[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) ソースを静的解析してくれるやつ
+・[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) コードフォーマッター
+
+_リポジトリのクローン_
+任意のディレクトリで`git clone {url}`（エディターのターミナルでも cmd でも）
+
+_パッケージのインストール_
+クローン完了後、discord-sample1 ディレクトリをエディターで開き、ターミナルから`npm install`コマンドを実行。
