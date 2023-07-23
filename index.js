@@ -14,6 +14,7 @@ client.on('ready', () => {
 	console.log(`Logged in as ${client.user.tag}!`);
 });
 
+// sakana
 client.on('messageCreate', async (message) => {
 	if (message.content === 'ping') {
 		message.reply('pong!');
@@ -22,3 +23,4 @@ client.on('messageCreate', async (message) => {
 
 client.login(process.env.TOKEN);
 // こめんと
+//comment
